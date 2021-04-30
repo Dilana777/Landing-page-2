@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import imagen from "/workspace/react-hello/src/img/big-project-image.png";
+import imagen from "../../img/cuadrado.png";
 
 export function Card() {
 	return (
